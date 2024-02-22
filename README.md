@@ -1,0 +1,1 @@
+This app is related to Providing Study Stuffs for Btech Cse Students for prepareing university exam , this app helps in that problem where students go various platform for study materials but not staisfied so this app ends all problem related to UTU exam
