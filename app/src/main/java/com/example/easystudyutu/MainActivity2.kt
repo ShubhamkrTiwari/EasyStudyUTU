@@ -19,13 +19,13 @@ class MainActivity2 : AppCompatActivity() {
 
         val second = findViewById<Button>(R.id.second);
         second.setOnClickListener { this
-          val intent = Intent(this,SecondYear::class.java)
+           val intent = Intent(this,SecondYear::class.java)
             startActivity(intent)
         }
 
         val third = findViewById<Button>(R.id.third);
         third.setOnClickListener { this
-         val intent = Intent(this,ThirdYear::class.java)
+          val intent = Intent(this,ThirdYear::class.java)
             startActivity(intent)
         }
 

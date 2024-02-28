@@ -20,7 +20,7 @@
         app:srcCompat="@drawable/applogo" />
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/math1notes"
         android:layout_width="97dp"
         android:layout_height="49dp"
         android:backgroundTint="#FF6E40"
@@ -79,7 +79,7 @@
         app:layout_constraintVertical_bias="0.247" />
 
     <Button
-        android:id="@+id/button2"
+        android:id="@+id/math1pyq"
         android:layout_width="89dp"
         android:layout_height="49dp"
         android:backgroundTint="#E040FB"
@@ -92,7 +92,7 @@
         app:layout_constraintVertical_bias="0.147" />
 
     <Button
-        android:id="@+id/button3"
+        android:id="@+id/math1keys"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:backgroundTint="#FF4081"
@@ -105,7 +105,7 @@
         app:layout_constraintVertical_bias="0.146" />
 
     <Button
-        android:id="@+id/button4"
+        android:id="@+id/physicsnotes"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:backgroundTint="#FF6E40"
@@ -118,7 +118,7 @@
         app:layout_constraintVertical_bias="0.237" />
 
     <Button
-        android:id="@+id/button5"
+        android:id="@+id/physicspyq"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:backgroundTint="#E040FB"
@@ -131,7 +131,7 @@
         app:layout_constraintVertical_bias="0.237" />
 
     <Button
-        android:id="@+id/button6"
+        android:id="@+id/physicskeys"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:backgroundTint="#FF4081"
@@ -159,7 +159,7 @@
         app:layout_constraintVertical_bias="0.336" />
 
     <Button
-        android:id="@+id/button7"
+        android:id="@+id/chemnotes"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:backgroundTint="#FF6E40"
@@ -172,7 +172,7 @@
         app:layout_constraintVertical_bias="0.329" />
 
     <Button
-        android:id="@+id/button8"
+        android:id="@+id/chempyq"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:backgroundTint="#E040FB"
@@ -185,7 +185,7 @@
         app:layout_constraintVertical_bias="0.329" />
 
     <Button
-        android:id="@+id/button9"
+        android:id="@+id/chemkeys"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:backgroundTint="#FF4081"
@@ -198,7 +198,7 @@
         app:layout_constraintVertical_bias="0.329" />
 
     <Button
-        android:id="@+id/button10"
+        android:id="@+id/electrinotes"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:backgroundTint="#FF6D00"
@@ -214,7 +214,7 @@
         android:id="@+id/textView5"
         android:layout_width="108dp"
         android:layout_height="31dp"
-        android:text="Basic.Electrical"
+        android:text="Basic.Electrica"
         android:textColor="#A7FFEB"
         android:textSize="18dp"
         android:textStyle="bold"
@@ -226,7 +226,7 @@
         app:layout_constraintVertical_bias="0.415" />
 
     <Button
-        android:id="@+id/button11"
+        android:id="@+id/electripyq"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:backgroundTint="#D500F9"
@@ -239,7 +239,7 @@
         app:layout_constraintVertical_bias="0.412" />
 
     <Button
-        android:id="@+id/button12"
+        android:id="@+id/electrikeys"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:backgroundTint="#FF4081"
@@ -267,7 +267,7 @@
         app:layout_constraintVertical_bias="0.499" />
 
     <Button
-        android:id="@+id/button13"
+        android:id="@+id/focpnotes"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:backgroundTint="#FF6D00"
@@ -280,7 +280,7 @@
         app:layout_constraintVertical_bias="0.499" />
 
     <Button
-        android:id="@+id/button14"
+        android:id="@+id/focppyq"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:backgroundTint="#D500F9"
@@ -293,7 +293,7 @@
         app:layout_constraintVertical_bias="0.499" />
 
     <Button
-        android:id="@+id/button15"
+        android:id="@+id/focpkeys"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:backgroundTint="#FF4081"
@@ -321,7 +321,7 @@
         app:layout_constraintVertical_bias="0.581" />
 
     <Button
-        android:id="@+id/button16"
+        android:id="@+id/mechnotes"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:backgroundTint="#FF6D00"
@@ -334,7 +334,7 @@
         app:layout_constraintVertical_bias="0.585" />
 
     <Button
-        android:id="@+id/button17"
+        android:id="@+id/mechpyq"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:backgroundTint="#D500F9"
@@ -347,7 +347,7 @@
         app:layout_constraintVertical_bias="0.585" />
 
     <Button
-        android:id="@+id/button18"
+        android:id="@+id/mechkeys"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:backgroundTint="#FF4081"
@@ -375,7 +375,7 @@
         app:layout_constraintVertical_bias="0.657" />
 
     <Button
-        android:id="@+id/button19"
+        android:id="@+id/math2notes"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:backgroundTint="#FF6D00"
@@ -388,7 +388,7 @@
         app:layout_constraintVertical_bias="0.667" />
 
     <Button
-        android:id="@+id/button20"
+        android:id="@+id/math2pyq"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:backgroundTint="#D500F9"
@@ -401,7 +401,7 @@
         app:layout_constraintVertical_bias="0.667" />
 
     <Button
-        android:id="@+id/button21"
+        android:id="@+id/math2keys"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:backgroundTint="#FF4081"
@@ -429,7 +429,7 @@
         app:layout_constraintVertical_bias="0.745" />
 
     <Button
-        android:id="@+id/button22"
+        android:id="@+id/electronotes"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:backgroundTint="#FF6D00"
@@ -442,7 +442,7 @@
         app:layout_constraintVertical_bias="0.748" />
 
     <Button
-        android:id="@+id/button23"
+        android:id="@+id/electropyq"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:backgroundTint="#D500F9"
@@ -455,7 +455,7 @@
         app:layout_constraintVertical_bias="0.748" />
 
     <Button
-        android:id="@+id/button24"
+        android:id="@+id/electrokeys"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:backgroundTint="#FF4081"
@@ -483,7 +483,7 @@
         app:layout_constraintVertical_bias="0.818" />
 
     <Button
-        android:id="@+id/button25"
+        android:id="@+id/evsnotes"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:backgroundTint="#FF6D00"
@@ -496,7 +496,7 @@
         app:layout_constraintVertical_bias="0.828" />
 
     <Button
-        android:id="@+id/button26"
+        android:id="@+id/evspyq"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:backgroundTint="#D500F9"
@@ -509,7 +509,7 @@
         app:layout_constraintVertical_bias="0.828" />
 
     <Button
-        android:id="@+id/button27"
+        android:id="@+id/evskeys"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:backgroundTint="#FF4081"
