@@ -80,7 +80,7 @@ class FirstYear : AppCompatActivity() {
             startActivity(browserIntent)
         }
 
-        val electrolinkButton = findViewById<Button>(R.id.electronotes);
+        val electrolinkButton = findViewById<Button>(R.id.digitalelectronotes);
         electrolinkButton.setOnClickListener {
             val browserIntent = Intent(
                 Intent.ACTION_VIEW,
