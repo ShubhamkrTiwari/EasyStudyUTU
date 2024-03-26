@@ -89,7 +89,7 @@ class FirstYear : AppCompatActivity() {
             startActivity(browserIntent)
         }
 
-        val evslinkButton = findViewById<Button>(R.id.evsnotes)
+        val evslinkButton = findViewById<Button>(R.id.evsnotes);
         evslinkButton.setOnClickListener {
             val browserIntent = Intent(
                 Intent.ACTION_VIEW,
@@ -98,7 +98,7 @@ class FirstYear : AppCompatActivity() {
             startActivity(browserIntent)
         }
 
-        val m1pyqlinkButton = findViewById<Button>(R.id.math1pyq)
+        val m1pyqlinkButton = findViewById<Button>(R.id.math1pyq);
         m1pyqlinkButton.setOnClickListener {
             val browserIntent = Intent(
                 Intent.ACTION_VIEW,
@@ -107,7 +107,7 @@ class FirstYear : AppCompatActivity() {
             startActivity(browserIntent)
         }
 
-        val physpyqlinkButton = findViewById<Button>(R.id.physicspyq)
+        val physpyqlinkButton = findViewById<Button>(R.id.physicspyq);
         physpyqlinkButton.setOnClickListener {
             val browserIntent = Intent(
                 Intent.ACTION_VIEW,
@@ -116,7 +116,7 @@ class FirstYear : AppCompatActivity() {
             startActivity(browserIntent)
         }
 
-        val chempyqlinkButton = findViewById<Button>(R.id.chempyq)
+        val chempyqlinkButton = findViewById<Button>(R.id.chempyq);
         chempyqlinkButton.setOnClickListener {
             val browserIntent = Intent(
                 Intent.ACTION_VIEW,
@@ -125,7 +125,7 @@ class FirstYear : AppCompatActivity() {
             startActivity(browserIntent)
         }
 
-        val electripyqlinkButton = findViewById<Button>(R.id.electripyq)
+        val electripyqlinkButton = findViewById<Button>(R.id.electripyq);
         electripyqlinkButton.setOnClickListener {
             val browserIntent = Intent(
                 Intent.ACTION_VIEW,
@@ -134,47 +134,47 @@ class FirstYear : AppCompatActivity() {
             startActivity(browserIntent)
         }
 
-        val focppyqlinkButton = findViewById<Button>(R.id.focppyq)
+        val focppyqlinkButton = findViewById<Button>(R.id.focppyq);
         focppyqlinkButton.setOnClickListener {
             val browserIntent = Intent(
                 Intent.ACTION_VIEW,
-                Uri.parse("https://drive.google.com/file/d/184Vf3r0Kk5YyFSrUvdUcar8PbIJ69Njv/view?usp=sharing/")
+                Uri.parse("https://drive.google.com/file/d/1t7W_uFK3oRCwEwx0jYEdG4nmpUcA5jFf/view?usp=sharing/")
             )
             startActivity(browserIntent)
         }
 
-        val mechpyqlinkButton = findViewById<Button>(R.id.mechpyq)
+        val mechpyqlinkButton = findViewById<Button>(R.id.mechpyq);
         mechpyqlinkButton.setOnClickListener {
             val browserIntent = Intent(
                 Intent.ACTION_VIEW,
-                Uri.parse("https://drive.google.com/file/d/184Vf3r0Kk5YyFSrUvdUcar8PbIJ69Njv/view?usp=sharing/")
+                Uri.parse("https://drive.google.com/file/d/1zsqfq2xW0WYP53qLzYv9wP856IglpuPp/view?usp=sharing/")
             )
             startActivity(browserIntent)
         }
 
-        val m2pyqlinkButton = findViewById<Button>(R.id.math2pyq)
+        val m2pyqlinkButton = findViewById<Button>(R.id.math2pyq);
         m2pyqlinkButton.setOnClickListener {
             val browserIntent = Intent(
                 Intent.ACTION_VIEW,
-                Uri.parse("https://drive.google.com/file/d/184Vf3r0Kk5YyFSrUvdUcar8PbIJ69Njv/view?usp=sharing/")
+                Uri.parse("https://drive.google.com/file/d/1RDcADVTKoTzH1INjr_MpRqEQSMm9b9b-/view?usp=sharing/")
             )
             startActivity(browserIntent)
         }
 
-        val elecropyqlinkButton = findViewById<Button>(R.id.electropyq)
+        val elecropyqlinkButton = findViewById<Button>(R.id.electropyq);
         elecropyqlinkButton.setOnClickListener {
             val browserIntent = Intent(
                 Intent.ACTION_VIEW,
-                Uri.parse("https://drive.google.com/file/d/184Vf3r0Kk5YyFSrUvdUcar8PbIJ69Njv/view?usp=sharing/")
+                Uri.parse("https://drive.google.com/file/d/1aKDxvvkrY0mQvoV-wPTk8QJIv3pbc2LV/view?usp=sharing/")
             )
             startActivity(browserIntent)
         }
 
-        val evspyqlinkButton = findViewById<Button>(R.id.evspyq)
+        val evspyqlinkButton = findViewById<Button>(R.id.evspyq);
         evspyqlinkButton.setOnClickListener {
             val browserIntent = Intent(
                 Intent.ACTION_VIEW,
-                Uri.parse("https://drive.google.com/file/d/184Vf3r0Kk5YyFSrUvdUcar8PbIJ69Njv/view?usp=sharing/")
+                Uri.parse("https://drive.google.com/file/d/12abLfIx4xRqjP6YMvZpaFWs7hF_oImxv/view?usp=sharing/")
             )
             startActivity(browserIntent)
         }

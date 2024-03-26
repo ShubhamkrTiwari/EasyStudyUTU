@@ -25,13 +25,13 @@ class MainActivity2 : AppCompatActivity() {
 
         val third = findViewById<Button>(R.id.third)
         third.setOnClickListener { this
-          val intent = Intent(this,ThirdYear::class.java)
+           val intent = Intent(this,ThirdYear::class.java)
             startActivity(intent)
         }
 
         val fourth = findViewById<Button>(R.id.fourth)
         fourth.setOnClickListener { this
-          val intent = Intent(this,FourthYear::class.java)
+           val intent = Intent(this,FourthYear::class.java)
             startActivity(intent)
         }
     }
