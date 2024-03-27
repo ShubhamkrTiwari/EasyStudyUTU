@@ -95,5 +95,87 @@ class SecondYear : AppCompatActivity() {
             )
             startActivity(browserIntent)
         }
+
+        val math3pyqlinkButton = findViewById<Button>(R.id.math3pyq);
+        math3pyqlinkButton.setOnClickListener {
+            val browserIntent = Intent(
+                Intent.ACTION_VIEW,
+                Uri.parse("https://drive.google.com/file/d/1gZIFP_i0uh-oUlikV8Wk0mx_kOnRnYqF/view?usp=sharing/")
+            )
+            startActivity(browserIntent)
+        }
+
+        val dsapyqlinkButton = findViewById<Button>(R.id.dsapyq);
+        dsapyqlinkButton.setOnClickListener {
+            val browserIntent = Intent(
+                Intent.ACTION_VIEW,
+                Uri.parse("https://drive.google.com/file/d/10DOd9ZpdA94wY8llZ7zrVthtQ5vkb92g/view?usp=sharing/")
+            )
+            startActivity(browserIntent)
+        }
+
+        val softpyqlinkButton = findViewById<Button>(R.id.softwarepyq);
+        softpyqlinkButton.setOnClickListener {
+            val browserIntent = Intent(
+                Intent.ACTION_VIEW,
+                Uri.parse("https://drive.google.com/file/d/12pUCXGgZ9Vk3gcj4zkrAE48IUAwj2Ja-/view?usp=sharing/")
+            )
+            startActivity(browserIntent)
+        }
+
+        val oopspyqlinkButton = findViewById<Button>(R.id.oopspyq);
+        oopspyqlinkButton.setOnClickListener {
+            val browserIntent = Intent(
+                Intent.ACTION_VIEW,
+                Uri.parse("https://drive.google.com/file/d/13-zUTSrIBd367zNWkFJ9voowdE6i_C0o/view?usp=sharing/")
+            )
+            startActivity(browserIntent)
+        }
+
+        val discpyqlinkButton = findViewById<Button>(R.id.discretepyq);
+        discpyqlinkButton.setOnClickListener {
+            val browserIntent = Intent(
+                Intent.ACTION_VIEW,
+                Uri.parse("https://drive.google.com/file/d/1KuTdvSb9GLNVz1RTIVXtqkIYj382-ugn/view?usp=sharing/")
+            )
+            startActivity(browserIntent)
+        }
+
+        val dbmspyqlinkButton = findViewById<Button>(R.id.dbmspyq);
+        dbmspyqlinkButton.setOnClickListener {
+            val browserIntent = Intent(
+                Intent.ACTION_VIEW,
+                Uri.parse("https://drive.google.com/file/d/1PdeJjdlBcPD7wVRZHlgUM9iBsDMa6S2s/view?usp=sharing/")
+            )
+            startActivity(browserIntent)
+        }
+
+        val digitalpyqpyqlinkButton = findViewById<Button>(R.id.digitalelectropyq);
+        digitalpyqpyqlinkButton.setOnClickListener {
+            val browserIntent = Intent(
+                Intent.ACTION_VIEW,
+                Uri.parse("https://drive.google.com/file/d/1at8d1EWY9T-fM96HHUVVUOKQnmFmQVph/view?usp=sharing/")
+            )
+            startActivity(browserIntent)
+        }
+
+        val coapyqlinkButton = findViewById<Button>(R.id.coapyq);
+        coapyqlinkButton.setOnClickListener {
+            val browserIntent = Intent(
+                Intent.ACTION_VIEW,
+                Uri.parse("https://drive.google.com/file/d/1lDxvifMVXPiO4GAQNssCuPHa762sflmu/view?usp=sharing/")
+            )
+            startActivity(browserIntent)
+        }
+
+        val automatapyqlinkButton = findViewById<Button>(R.id.automatapyq);
+        automatapyqlinkButton.setOnClickListener {
+            val browserIntent = Intent(
+                Intent.ACTION_VIEW,
+                Uri.parse("https://drive.google.com/file/d/1piGecW5DetOT_HaPhyP4FraoMqQzLMRO/view?usp=sharing/")
+            )
+            startActivity(browserIntent)
+        }
+
     }
 }

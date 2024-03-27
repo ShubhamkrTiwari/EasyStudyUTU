@@ -161,7 +161,7 @@ class FirstYear : AppCompatActivity() {
             startActivity(browserIntent)
         }
 
-        val elecropyqlinkButton = findViewById<Button>(R.id.electropyq);
+        val elecropyqlinkButton = findViewById<Button>(R.id.digitalelectropyq);
         elecropyqlinkButton.setOnClickListener {
             val browserIntent = Intent(
                 Intent.ACTION_VIEW,

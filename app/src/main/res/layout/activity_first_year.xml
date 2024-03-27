@@ -429,7 +429,7 @@
         app:layout_constraintVertical_bias="0.748" />
 
     <Button
-        android:id="@+id/electropyq"
+        android:id="@+id/digitalelectropyq"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:backgroundTint="#D500F9"
