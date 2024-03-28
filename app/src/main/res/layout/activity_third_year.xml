@@ -38,7 +38,7 @@
         app:layout_constraintVertical_bias="0.073" />
 
     <Button
-        android:id="@+id/button50"
+        android:id="@+id/osnotes"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:backgroundTint="#FF5252"
@@ -51,7 +51,7 @@
         app:layout_constraintVertical_bias="0.054" />
 
     <Button
-        android:id="@+id/button51"
+        android:id="@+id/ospyq"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:backgroundTint="#E040FB"
@@ -89,10 +89,10 @@
         app:layout_constraintHorizontal_bias="0.128"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.145" />
+        app:layout_constraintVertical_bias="0.162" />
 
     <Button
-        android:id="@+id/button58"
+        android:id="@+id/cnnotes"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:backgroundTint="#FF5252"
@@ -105,7 +105,7 @@
         app:layout_constraintVertical_bias="0.15" />
 
     <Button
-        android:id="@+id/button77"
+        android:id="@+id/cnpyq"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:backgroundTint="#E040FB"
@@ -131,7 +131,7 @@
         app:layout_constraintVertical_bias="0.149" />
 
     <TextView
-        android:id="@+id/textView31"
+        android:id="@+id/textView30"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="DAA"
@@ -146,7 +146,7 @@
         app:layout_constraintVertical_bias="0.236" />
 
     <Button
-        android:id="@+id/button79"
+        android:id="@+id/daanotes"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:backgroundTint="#FF5252"
@@ -159,7 +159,7 @@
         app:layout_constraintVertical_bias="0.245" />
 
     <Button
-        android:id="@+id/button80"
+        android:id="@+id/daapyq"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:backgroundTint="#E040FB"
@@ -194,13 +194,13 @@
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.092"
+        app:layout_constraintHorizontal_bias="0.115"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.322" />
+        app:layout_constraintVertical_bias="0.335" />
 
     <Button
-        android:id="@+id/button82"
+        android:id="@+id/javanotes"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:backgroundTint="#FF5252"
@@ -213,7 +213,7 @@
         app:layout_constraintVertical_bias="0.333" />
 
     <Button
-        android:id="@+id/button83"
+        android:id="@+id/javapyq"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:backgroundTint="#E040FB"
@@ -255,7 +255,7 @@
         app:layout_constraintVertical_bias="0.43" />
 
     <Button
-        android:id="@+id/button85"
+        android:id="@+id/iwtnotes"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:backgroundTint="#FF5252"
@@ -268,7 +268,7 @@
         app:layout_constraintVertical_bias="0.428" />
 
     <Button
-        android:id="@+id/button86"
+        android:id="@+id/iwtpyq"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:backgroundTint="#E040FB"
@@ -309,7 +309,7 @@
         app:layout_constraintVertical_bias="0.513" />
 
     <Button
-        android:id="@+id/button88"
+        android:id="@+id/cybernotes"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:backgroundTint="#FF5252"
@@ -322,7 +322,7 @@
         app:layout_constraintVertical_bias="0.522" />
 
     <Button
-        android:id="@+id/button89"
+        android:id="@+id/cyberpyq"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:backgroundTint="#E040FB"
@@ -363,7 +363,7 @@
         app:layout_constraintVertical_bias="0.607" />
 
     <Button
-        android:id="@+id/button2"
+        android:id="@+id/micropyq"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:backgroundTint="#E040FB"
@@ -404,7 +404,7 @@
         app:layout_constraintVertical_bias="0.702" />
 
     <Button
-        android:id="@+id/button5"
+        android:id="@+id/compilerpyq"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:backgroundTint="#E040FB"
@@ -445,7 +445,7 @@
         app:layout_constraintVertical_bias="0.786" />
 
     <Button
-        android:id="@+id/button7"
+        android:id="@+id/dataminingnotes"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:backgroundTint="#FF5252"
@@ -458,7 +458,7 @@
         app:layout_constraintVertical_bias="0.797" />
 
     <Button
-        android:id="@+id/button8"
+        android:id="@+id/minigpyq"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:backgroundTint="#E040FB"
@@ -499,7 +499,7 @@
         app:layout_constraintVertical_bias="0.87" />
 
     <Button
-        android:id="@+id/button10"
+        android:id="@+id/analyticnotes"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:backgroundTint="#FF5252"
@@ -512,7 +512,7 @@
         app:layout_constraintVertical_bias="0.891" />
 
     <Button
-        android:id="@+id/button11"
+        android:id="@+id/analyticpyq"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:backgroundTint="#E040FB"
@@ -538,7 +538,7 @@
         app:layout_constraintVertical_bias="0.891" />
 
     <Button
-        android:id="@+id/button13"
+        android:id="@+id/micronotes"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:backgroundTint="#FF5252"
@@ -551,7 +551,7 @@
         app:layout_constraintVertical_bias="0.617" />
 
     <Button
-        android:id="@+id/button14"
+        android:id="@+id/compilernotes"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:backgroundTint="#FF5252"

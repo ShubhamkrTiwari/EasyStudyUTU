@@ -6,11 +6,27 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/background2"
+    android:foregroundTint="#D81B60"
     tools:context=".FourthYear">
 
 
+    <TextView
+        android:id="@+id/textView30"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Cryptography"
+        android:textColor="#B71C1C"
+        android:textSize="16dp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.038"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.541" />
+
     <Button
-        android:id="@+id/button63"
+        android:id="@+id/adhocpyq"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:backgroundTint="#7B1FA2"
@@ -42,8 +58,8 @@
         android:id="@+id/textView26"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text=".Net Prog"
-        android:textColor="#E53935"
+        android:text="_Net Prog"
+        android:textColor="#D81B60"
         android:textSize="16dp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -54,7 +70,7 @@
         app:layout_constraintVertical_bias="0.098" />
 
     <Button
-        android:id="@+id/button59"
+        android:id="@+id/dotnetnotes"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:backgroundTint="#00796B"
@@ -67,7 +83,7 @@
         app:layout_constraintVertical_bias="0.09" />
 
     <Button
-        android:id="@+id/button60"
+        android:id="@+id/dotnetpyq"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:backgroundTint="#7B1FA2"
@@ -97,7 +113,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="AdHoc "
-        android:textColor="#E53935"
+        android:textColor="#D81B60"
         android:textSize="16dp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -108,7 +124,7 @@
         app:layout_constraintVertical_bias="0.184" />
 
     <Button
-        android:id="@+id/button62"
+        android:id="@+id/adhocnotes"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:backgroundTint="#00796B"
@@ -150,7 +166,7 @@
         app:layout_constraintVertical_bias="0.283" />
 
     <Button
-        android:id="@+id/button65"
+        android:id="@+id/bigdatanotes"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:backgroundTint="#00796B"
@@ -163,7 +179,7 @@
         app:layout_constraintVertical_bias="0.276" />
 
     <Button
-        android:id="@+id/button66"
+        android:id="@+id/bigdatapyq"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:backgroundTint="#7B1FA2"
@@ -204,7 +220,7 @@
         app:layout_constraintVertical_bias="0.375" />
 
     <Button
-        android:id="@+id/button68"
+        android:id="@+id/advcoanotes"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:backgroundTint="#00796B"
@@ -217,7 +233,7 @@
         app:layout_constraintVertical_bias="0.367" />
 
     <Button
-        android:id="@+id/button69"
+        android:id="@+id/advcoapyq"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:backgroundTint="#7B1FA2"
@@ -258,7 +274,7 @@
         app:layout_constraintVertical_bias="0.455" />
 
     <Button
-        android:id="@+id/button71"
+        android:id="@+id/advosnotes"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:backgroundTint="#00796B"
@@ -271,7 +287,7 @@
         app:layout_constraintVertical_bias="0.458" />
 
     <Button
-        android:id="@+id/button72"
+        android:id="@+id/advospyq"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:backgroundTint="#7B1FA2"
@@ -297,23 +313,8 @@
         app:layout_constraintTop_toTopOf="@+id/textView25"
         app:layout_constraintVertical_bias="0.476" />
 
-    <TextView
-        android:id="@+id/textView30"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Cryptography"
-        android:textColor="#B71C1C"
-        android:textSize="16dp"
-        android:textStyle="bold"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.038"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.541" />
-
     <Button
-        android:id="@+id/button74"
+        android:id="@+id/cryptonotes"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:backgroundTint="#00796B"
@@ -326,7 +327,7 @@
         app:layout_constraintVertical_bias="0.547" />
 
     <Button
-        android:id="@+id/button75"
+        android:id="@+id/cryptopyq"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:backgroundTint="#7B1FA2"
@@ -361,4 +362,59 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="1.0"
         app:srcCompat="@drawable/applogo" />
+
+    <TextView
+        android:id="@+id/textView31"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#D81B60"
+        android:text="Artificial Intel."
+        android:textColor="#B71C1C"
+        android:textSize="16dp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.016"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.627" />
+
+    <Button
+        android:id="@+id/ainotes"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#00897B"
+        android:text="NOTES"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.381"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.636" />
+
+    <Button
+        android:id="@+id/aipyq"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#8E24AA"
+        android:text="PYQ"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.706"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.636" />
+
+    <Button
+        android:id="@+id/aikeys"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#F4511E"
+        android:text="KEYS"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.636" />
 </androidx.constraintlayout.widget.ConstraintLayout>

@@ -21,9 +21,8 @@ class SecondYear : AppCompatActivity() {
                 Uri.parse("https://drive.google.com/file/d/1MWgJJnHgKDGGgV80HdkUKHHC-rc04jv0/view?usp=sharing/")
             )
             startActivity(browserIntent)
-
-
         }
+
         val dsalinkButton = findViewById<Button>(R.id.dsanotes);
         dsalinkButton.setOnClickListener {
             val browserIntent = Intent(
