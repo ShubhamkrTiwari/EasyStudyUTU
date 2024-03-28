@@ -1,6 +1,7 @@
 package com.example.easystudyutu
 
 import android.content.Intent
+import android.net.Uri
 import android.os.Bundle
 import android.widget.Button
 import androidx.appcompat.app.AppCompatActivity
@@ -10,6 +11,27 @@ class MainActivity2 : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main2)
+        setupLinkButton()
+    }
+
+        fun setupLinkButton() {
+            val querieslinkButton = findViewById<Button>(R.id.queries);
+            querieslinkButton.setOnClickListener {
+                val browserIntent = Intent(
+                    Intent.ACTION_VIEW,
+                    Uri.parse("https://forms.gle/Bm8aPRYSJK8pJSwe8/")
+                )
+                startActivity(browserIntent)
+            }
+
+            val contactuslinkButton = findViewById<Button>(R.id.contactus);
+            contactuslinkButton.setOnClickListener {
+                val browserIntent = Intent(
+                    Intent.ACTION_VIEW,
+                    Uri.parse("https://skt916606@gmail.com/")
+                )
+                startActivity(browserIntent)
+            }
 
         val first = findViewById<Button>(R.id.first)
         first.setOnClickListener {this

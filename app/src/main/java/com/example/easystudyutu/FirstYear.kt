@@ -102,7 +102,7 @@ class FirstYear : AppCompatActivity() {
         m1pyqlinkButton.setOnClickListener {
             val browserIntent = Intent(
                 Intent.ACTION_VIEW,
-                Uri.parse("https://drive.google.com/file/d/1nXZcAY9MpcAa_bXQerFyxvOlE4Gpyy9h/view?usp=sharing/")
+                Uri.parse("https://drive.google.com/file/d/1I6DwuL2Mpb1l_yQ86pROZtbshV1yyQ2s/view?usp=sharing/")
             )
             startActivity(browserIntent)
         }
@@ -129,7 +129,7 @@ class FirstYear : AppCompatActivity() {
         electripyqlinkButton.setOnClickListener {
             val browserIntent = Intent(
                 Intent.ACTION_VIEW,
-                Uri.parse("https://drive.google.com/file/d/1_8ZMDktdYpsCcsnAQDXeyvO8ohwET6PH/view?usp=sharing/")
+                Uri.parse("https://drive.google.com/file/d/1XRaTURtsdaSRAZLMcC_p2Tp92pJyZG44/view?usp=sharing/")
             )
             startActivity(browserIntent)
         }
