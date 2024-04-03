@@ -31,13 +31,14 @@
         android:layout_height="wrap_content"
         android:backgroundTint="#7B1FA2"
         android:text="PYQ"
+        android:textColor="#F4F3F3"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.743"
+        app:layout_constraintHorizontal_bias="0.823"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.177" />
+        app:layout_constraintVertical_bias="0.165" />
 
     <TextView
         android:id="@+id/textView25"
@@ -76,13 +77,14 @@
         android:layout_height="wrap_content"
         android:backgroundTint="#00796B"
         android:text="NOTES"
+        android:textColor="#F8F5F5"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.381"
+        app:layout_constraintHorizontal_bias="0.38"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.09" />
+        app:layout_constraintVertical_bias="0.074" />
 
     <Button
         android:id="@+id/dotnetpyq"
@@ -90,13 +92,14 @@
         android:layout_height="wrap_content"
         android:backgroundTint="#7B1FA2"
         android:text="PYQ"
+        android:textColor="#F4F2F2"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.743"
+        app:layout_constraintHorizontal_bias="0.823"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.089" />
+        app:layout_constraintVertical_bias="0.074" />
 
     <TextView
         android:id="@+id/textView27"
@@ -119,13 +122,14 @@
         android:layout_height="wrap_content"
         android:backgroundTint="#00796B"
         android:text="NOTES"
+        android:textColor="#EFEBEB"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.381"
+        app:layout_constraintHorizontal_bias="0.38"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.177" />
+        app:layout_constraintVertical_bias="0.165" />
 
     <TextView
         android:id="@+id/textView28"
@@ -149,13 +153,14 @@
         android:layout_height="wrap_content"
         android:backgroundTint="#00796B"
         android:text="NOTES"
+        android:textColor="#F3EFEF"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.381"
+        app:layout_constraintHorizontal_bias="0.38"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.276" />
+        app:layout_constraintVertical_bias="0.266" />
 
     <Button
         android:id="@+id/bigdatapyq"
@@ -163,13 +168,14 @@
         android:layout_height="wrap_content"
         android:backgroundTint="#7B1FA2"
         android:text="PYQ"
+        android:textColor="#F1EFEF"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.743"
+        app:layout_constraintHorizontal_bias="0.823"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.276" />
+        app:layout_constraintVertical_bias="0.266" />
 
     <TextView
         android:id="@+id/textView24"
@@ -192,13 +198,14 @@
         android:layout_height="wrap_content"
         android:backgroundTint="#00796B"
         android:text="NOTES"
+        android:textColor="#F3F0F0"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.381"
+        app:layout_constraintHorizontal_bias="0.38"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.367" />
+        app:layout_constraintVertical_bias="0.351" />
 
     <Button
         android:id="@+id/advcoapyq"
@@ -206,13 +213,14 @@
         android:layout_height="wrap_content"
         android:backgroundTint="#7B1FA2"
         android:text="PYQ"
+        android:textColor="#F3EFEF"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.743"
+        app:layout_constraintHorizontal_bias="0.823"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.367" />
+        app:layout_constraintVertical_bias="0.351" />
 
     <TextView
         android:id="@+id/textView29"
@@ -235,13 +243,14 @@
         android:layout_height="wrap_content"
         android:backgroundTint="#00796B"
         android:text="NOTES"
+        android:textColor="#F8F6F6"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.381"
+        app:layout_constraintHorizontal_bias="0.38"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.458" />
+        app:layout_constraintVertical_bias="0.437" />
 
     <Button
         android:id="@+id/advospyq"
@@ -249,13 +258,14 @@
         android:layout_height="wrap_content"
         android:backgroundTint="#7B1FA2"
         android:text="PYQ"
+        android:textColor="#F4F1F1"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.743"
+        app:layout_constraintHorizontal_bias="0.823"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="@+id/textView25"
-        app:layout_constraintVertical_bias="0.454" />
+        app:layout_constraintVertical_bias="0.433" />
 
     <Button
         android:id="@+id/cryptonotes"
@@ -263,13 +273,14 @@
         android:layout_height="wrap_content"
         android:backgroundTint="#00796B"
         android:text="NOTES"
+        android:textColor="#F1EDED"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.381"
+        app:layout_constraintHorizontal_bias="0.38"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.547" />
+        app:layout_constraintVertical_bias="0.528" />
 
     <Button
         android:id="@+id/cryptopyq"
@@ -277,13 +288,14 @@
         android:layout_height="wrap_content"
         android:backgroundTint="#7B1FA2"
         android:text="PYQ"
+        android:textColor="#F3EFEF"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.743"
+        app:layout_constraintHorizontal_bias="0.823"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="@+id/textView25"
-        app:layout_constraintVertical_bias="0.544" />
+        app:layout_constraintVertical_bias="0.525" />
 
     <ImageView
         android:id="@+id/imageView7"
@@ -318,13 +330,14 @@
         android:layout_height="wrap_content"
         android:backgroundTint="#00897B"
         android:text="NOTES"
+        android:textColor="#F4F2F2"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.381"
+        app:layout_constraintHorizontal_bias="0.38"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.636" />
+        app:layout_constraintVertical_bias="0.617" />
 
     <Button
         android:id="@+id/aipyq"
@@ -332,12 +345,13 @@
         android:layout_height="wrap_content"
         android:backgroundTint="#8E24AA"
         android:text="PYQ"
+        android:textColor="#F3EFEF"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.743"
+        app:layout_constraintHorizontal_bias="0.823"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.636" />
+        app:layout_constraintVertical_bias="0.617" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
