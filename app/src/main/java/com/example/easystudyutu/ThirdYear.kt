@@ -194,9 +194,6 @@ class ThirdYear : AppCompatActivity() {
             )
             startActivity(browserIntent)
         }
-
-
-
     }
 }
 
