@@ -75,7 +75,7 @@ class FirstYear : AppCompatActivity() {
         math2linkButton.setOnClickListener {
             val browserIntent = Intent(
                 Intent.ACTION_VIEW,
-                Uri.parse("https://drive.google.com/file/d/1wPGFhbgNSG66YF8UPNa-dXf6CFraTR39/view?usp=sharing/")
+                Uri.parse("https://drive.google.com/file/d/19FyIHg7nMEECD0T2Z9fM5cTdixB7FoTb/view?usp=sharing/")
             )
             startActivity(browserIntent)
         }
