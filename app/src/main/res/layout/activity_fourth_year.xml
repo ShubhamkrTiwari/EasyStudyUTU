@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/background2"
-    android:foregroundTint="#D81B60"
+    android:foregroundTint="#00897B"
     tools:context=".FourthYear">
 
 
@@ -46,15 +46,14 @@
         android:layout_height="wrap_content"
         android:foregroundTint="#F44336"
         android:text="Semester 7,8"
-        android:textColor="#C2185B"
+        android:textColor="#03423B"
         android:textSize="24dp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.007" />
+        app:layout_constraintVertical_bias="0.004" />
 
     <TextView
         android:id="@+id/textView26"
@@ -322,7 +321,7 @@
         app:layout_constraintHorizontal_bias="0.016"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.627" />
+        app:layout_constraintVertical_bias="0.62" />
 
     <Button
         android:id="@+id/ainotes"
