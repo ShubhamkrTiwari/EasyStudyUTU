@@ -14,7 +14,7 @@
         android:backgroundTint="#DFD6E1"
         android:text="Semester 3,4"
         android:textColor="#004D40"
-        android:textSize="26dp"
+        android:textSize="24dp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
