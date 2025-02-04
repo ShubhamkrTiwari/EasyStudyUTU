@@ -136,7 +136,7 @@
         android:layout_height="wrap_content"
         android:text="Big Data"
         android:textAllCaps="false"
-        android:textColor="#B71C1C"
+        android:textColor="#141313"
         android:textSize="16dp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
