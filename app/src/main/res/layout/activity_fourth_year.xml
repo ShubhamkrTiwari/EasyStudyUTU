@@ -313,7 +313,7 @@
         android:layout_height="wrap_content"
         android:backgroundTint="#D81B60"
         android:text="Artificial Intel."
-        android:textColor="#B71C1C"
+        android:textColor="#101010"
         android:textSize="16dp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
